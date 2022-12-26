@@ -49,4 +49,4 @@ while(1):
 		print("Could not request results; {0}. F*** YOU!".format(e))
 		
 	except sr.UnknownValueError:
-		print("Unknown error occurred? Little piece of s***")
+		print("Unknown error occurred? Little piece of s***.")
