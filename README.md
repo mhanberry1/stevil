@@ -14,7 +14,7 @@ An evil AI assistant
 To install python dependencies, you can run:
 
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Note: On Mac (and maybe linux?) Homebrew may be required
