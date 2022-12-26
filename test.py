@@ -42,11 +42,11 @@ while(1):
 			MyText = r.recognize_google(audio2)
 			MyText = MyText.lower()
 
-			print("Did you say ",MyText)
+			print("Did you say ",MyText,", Motherf***er?")
 			SpeakText(MyText)
 			
 	except sr.RequestError as e:
-		print("Could not request results; {0}".format(e))
+		print("Could not request results; {0}. F*** YOU!".format(e))
 		
 	except sr.UnknownValueError:
-		print("unknown error occurred")
+		print("Unknown error occurred? Little piece of s***.")
