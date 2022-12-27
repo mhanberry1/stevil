@@ -1,6 +1,6 @@
 # stevil
 
-An evil AI assistant
+A slightly evil AI assistant
 
 ## dependencies
 
@@ -18,3 +18,13 @@ pip3 install -r requirements.txt
 ```
 
 Note: On Mac (and maybe linux?) Homebrew may be required
+
+## usage
+
+To start stevil, run:
+
+```
+python3 stevil.py
+```
+
+Make sure you are in a reasonably quiet environment for the best results.
