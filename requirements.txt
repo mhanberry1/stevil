@@ -1,3 +1,5 @@
 speechrecognition
 pyaudio
 pyttsx3
+spacy
+pyyaml

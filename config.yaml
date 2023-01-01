@@ -1,0 +1,14 @@
+# TODO: replace example config
+
+messages:
+  - triggers:
+    - "phrase1"
+    - "phrase2"
+    response: "response1"
+  - triggers:
+    - "phrase3"
+    - "phrase4"
+    response: "response2"
+  - triggers:
+    - "hello"
+    response: "Hey ugly. What are you looking at?"
